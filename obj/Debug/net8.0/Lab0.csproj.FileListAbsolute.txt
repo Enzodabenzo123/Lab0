@@ -1,0 +1,14 @@
+C:\Users\campa\source\repos\Lab0App\Lab0\bin\Debug\net8.0\Lab0.exe
+C:\Users\campa\source\repos\Lab0App\Lab0\bin\Debug\net8.0\Lab0.deps.json
+C:\Users\campa\source\repos\Lab0App\Lab0\bin\Debug\net8.0\Lab0.runtimeconfig.json
+C:\Users\campa\source\repos\Lab0App\Lab0\bin\Debug\net8.0\Lab0.dll
+C:\Users\campa\source\repos\Lab0App\Lab0\bin\Debug\net8.0\Lab0.pdb
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.AssemblyInfoInputs.cache
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.AssemblyInfo.cs
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.csproj.CoreCompileInputs.cache
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.dll
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\refint\Lab0.dll
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.pdb
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\Lab0.genruntimeconfig.cache
+C:\Users\campa\source\repos\Lab0App\Lab0\obj\Debug\net8.0\ref\Lab0.dll
